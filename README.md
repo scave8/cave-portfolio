@@ -1,13 +1,16 @@
 # cave-portfolio
 
-##USER STORY
+#CODE SOURCE 
+I used https://www.freecodecamp.org/ to assist me in building my portfolio, this portfolio is not complete yet.
+
+#USER STORY
 
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
 
-##ACCEPTANCE CRITERIA
+#ACCEPTANCE CRITERIA
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
