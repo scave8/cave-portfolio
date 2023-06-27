@@ -1,0 +1,24 @@
+.bgimage    {
+height:100vh;
+background-image: url(images/bg-img.jpg);
+background-size:cover;
+position:relative;
+}
+.hero_title     {
+    font-size:150px;
+    position:relative;
+}
+.hero_desc  {
+    font-size:130px;
+}
+.hero-text {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate (-50%, -50%);
+    color: rgb(81, 14, 206);
+}
+.imageaboutpage {
+    width: 20vh;
+    height: 30vh;
+}
